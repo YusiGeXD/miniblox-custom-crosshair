@@ -10,7 +10,7 @@ Miniblox.io için geliştirilen Custom Crosshair uzantısı, nişangahınızı t
 🚀 Kurulum (Chrome / Edge - Developer Mode)
 1. Dosyayı İndir
 Bu projeyi ZIP olarak indir veya klonla:
-git clone https://github.com/kullaniciadi/miniblox-custom-crosshair.git
+git clone https://github.com/YusiGeXD/miniblox-crosshair-extension.git
 ZIP indirdiysen klasöre çıkart (extract).
 2. Tarayıcıda Uzantılar Sayfasını Aç
 
